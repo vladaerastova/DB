@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <data>
+    <product id="1">
+      <name>
+						ATRIX Smart watch E08.0 Black (ARX-SW-E080b)
+					</name>
+      <price>910 грн.</price>
+      <image>http://i7.sokol.org.ua/goods/12181/12181991.jpg</image>
+    </product>
+    <product id="2">
+      <name>
+						Браслет Xiaomi Mi Band Black
+					</name>
+      <price>399 грн.</price>
+      <image>http://i5.sokol.org.ua/goods/11836/11836031.jpg</image>
+    </product>
+    <product id="3">
+      <name>Green</name>
+      <price>319 грн.</price>
+      <image>http://i3.sokol.org.ua/goods/11534/11534932.jpg</image>
+    </product>
+    <product id="4">
+      <name>Pink</name>
+      <price>509 грн.</price>
+      <image>http://i1.sokol.org.ua/goods/11836/11836089.jpg</image>
+    </product>
+    <product id="5">
+      <name>Blue</name>
+      <price>635 грн.</price>
+      <image>http://i5.sokol.org.ua/goods/11511/11511163.jpg</image>
+    </product>
+    <product id="6">
+      <name>Yellow</name>
+      <price>535 грн.</price>
+      <image>http://i7.sokol.org.ua/goods/11836/11836080.jpg</image>
+    </product>
+    <product id="7">
+      <name>Orange</name>
+      <price>537 грн.</price>
+      <image>http://i3.sokol.org.ua/goods/11836/11836098.jpg</image>
+    </product>
+    <product id="8">
+      <name>
+						Спортивный браслет XIAOMI Mi Band 2 Black
+					</name>
+      <price>555 грн.</price>
+      <image>http://i2.sokol.org.ua/goods/12769/12769165.jpg</image>
+    </product>
+    <product id="9">
+      <name>
+						ATRIX Smart watch E07 Steel
+					</name>
+      <price>999 грн.</price>
+      <image>http://i4.sokol.org.ua/goods/12184/12184943.jpg</image>
+    </product>
+    <product id="10">
+      <name>
+						Смарт-часы Mykronoz ZeClock Black
+					</name>
+      <price>1 456 грн.</price>
+      <image>http://i2.sokol.org.ua/goods/11857/11857086.jpg</image>
+    </product>
+    <product id="11">
+      <name>
+						AINOL W2
+					</name>
+      <price>3 199 грн.</price>
+      <image>http://i4.sokol.org.ua/goods/12657/12657013.jpg</image>
+    </product>
+    <product id="12">
+      <name>
+						ATRIX Smart watch TW-66 Black
+					</name>
+      <price>1 381 грн.</price>
+      <image>http://i7.sokol.org.ua/goods/12183/12183170.jpg</image>
+    </product>
+    <product id="13">
+      <name>
+						MYKRONOZ ZeWatch 3 White (KRZEWATCH3-WHITE)
+					</name>
+      <price>1 375 грн.</price>
+      <image>http://i4.sokol.org.ua/goods/12545/12545881.jpg</image>
+    </product>
+    <product id="14">
+      <name>
+						Умные часы RAZER Nabu Watch Smart Wristwear (RZ04-00870700-R3C1)
+					</name>
+      <price>1 612 грн.</price>
+      <image>http://i5.sokol.org.ua/goods/12770/12770569.jpg</image>
+    </product>
+    <product id="15">
+      <name>
+						XIAOMI Ремешок Mi Band Yellow
+					</name>
+      <price>2 399 грн.</price>
+      <image>http://i5.sokol.org.ua/goods/12829/12829402.jpg</image>
+    </product>
+    <product id="16">
+      <name>
+						Браслет Mykronoz ZeFit Red
+					</name>
+      <price>3 999 грн.</price>
+      <image>http://i6.sokol.org.ua/goods/11872/11872683.jpg</image>
+    </product>
+    <product id="17">
+      <name>
+						Браслет Mykronoz ZeFit Pink
+					</name>
+      <price>149 грн.</price>
+      <image>http://i2.sokol.org.ua/goods/11872/11872674.jpg</image>
+    </product>
+    <product id="18">
+      <name>
+						Браслет Fitbit Flex Wireless Activity &amp; Sleep Wristband (FB401BK-EU) Black
+					</name>
+      <price>1 106 грн.</price>
+      <image>http://i6.sokol.org.ua/goods/11296/11296742.png</image>
+    </product>
+    <product id="19">
+      <name>
+						Спортивный браслет SAMSUNG Smart Charm (EI-AN920BBEGRU) Black
+					</name>
+      <price>1 081 грн.</price>
+      <image>http://i4.sokol.org.ua/goods/12800/12800323.jpg</image>
+    </product>
+    <product id="20">
+      <name>
+						Смарт-часы Fitbit Fitbit Surge L (FBSUBKL) Black
+					</name>
+      <price>1 099 грн.</price>
+      <image>http://i1.sokol.org.ua/goods/11552/11552100.jpg</image>
+    </product>
+  </data>
+</root>

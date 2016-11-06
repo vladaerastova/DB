@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <data>
+    <product id="1">
+      <name>
+						Смартфон Xiaomi Gray
+					</name>
+      <price>4 499 грн.</price>
+      <image>http://i7.sokol.org.ua/goods/12914/12914803.jpg</image>
+    </product>
+    <product id="2">
+      <name>
+						Смартфон Xiaomi Redmi Note 3 Pro 3/32Gb Gold
+					</name>
+      <price>4 444 грн.</price>
+      <image>http://i2.sokol.org.ua/goods/12492/12492051.jpg</image>
+    </product>
+    <product id="3">
+      <name>
+						Смартфон Xiaomi Redmi Note 3 Pro 3/32Gb Silver
+					</name>
+      <price>5 599 грн.</price>
+      <image>http://i5.sokol.org.ua/goods/12492/12492105.jpg</image>
+    </product>
+    <product id="4">
+      <name>
+						Смартфон Xiaomi Redmi Note 3 Pro 2/16Gb Grey
+					</name>
+      <price>5 399 грн.</price>
+      <image>http://i6.sokol.org.ua/goods/12492/12492195.png</image>
+    </product>
+    <product id="5">
+      <name>
+						Смартфон Xiaomi Redmi Note 3 Pro 2/16Gb Gold
+					</name>
+      <price>5 499 грн.</price>
+      <image>http://i2.sokol.org.ua/goods/12224/12224889.jpg</image>
+    </product>
+    <product id="6">
+      <name>
+						Смартфон Samsung Galaxy J5 White (SM-J500H/DS)
+					</name>
+      <price>5 399 грн.</price>
+      <image>http://i5.sokol.org.ua/goods/11638/11638902.jpg</image>
+    </product>
+    <product id="7">
+      <name>
+						Смартфон Xiaomi Redmi 3 Fashion Silver
+					</name>
+      <price>4 099 грн.</price>
+      <image>http://i5.sokol.org.ua/goods/12456/12456276.jpg</image>
+    </product>
+    <product id="8">
+      <name>
+						Смартфон Samsung Galaxy J7 J700H/DS Black
+					</name>
+      <price>4 099 грн.</price>
+      <image>http://i5.sokol.org.ua/goods/12426/12426357.jpg</image>
+    </product>
+    <product id="9">
+      <name>
+						Смартфон Xiaomi Redmi 3s 2/16 Gold
+					</name>
+      <price>4 599 грн.</price>
+      <image>http://i1.sokol.org.ua/goods/12787/12787327.jpg</image>
+    </product>
+    <product id="10">
+      <name>
+						Смартфон HTC Desire 526g Dual Sim Terra White Blue
+					</name>
+      <price>4 299 грн.</price>
+      <image>http://i6.sokol.org.ua/goods/8337/8337208.jpg</image>
+    </product>
+    <product id="11">
+      <name>
+						Смартфон Xiaomi Redmi 3 Fashion Gold
+					</name>
+      <price>3 399 грн.</price>
+      <image>http://i1.sokol.org.ua/goods/12207/12207382.jpg</image>
+    </product>
+    <product id="12">
+      <name>
+						Смартфон Samsung Galaxy J5 Gold (SM-J500H/DS)
+					</name>
+      <price>5 999 грн.</price>
+      <image>http://i2.sokol.org.ua/goods/11638/11638848.jpg</image>
+    </product>
+    <product id="13">
+      <name>
+						Смартфон Xiaomi Mi4c 2/16Gb Black
+					</name>
+      <price>5 499 грн.</price>
+      <image>http://i4.sokol.org.ua/goods/11831/11831349.jpg</image>
+    </product>
+    <product id="14">
+      <name>
+						Смартфон Huawei Y3 II Gold
+					</name>
+      <price>4 299 грн.</price>
+      <image>http://i4.sokol.org.ua/goods/12788/12788578.jpg</image>
+    </product>
+    <product id="15">
+      <name>
+						Смартфон LG X Power (K220) Dual Sim Black (LGK220DS.ACISBK)
+					</name>
+      <price>2 693 грн.</price>
+      <image>http://i6.sokol.org.ua/goods/12787/12787363.jpg</image>
+    </product>
+    <product id="16">
+      <name>
+						Смартфон LG X Power (K220) Dual Sim Gold Gold
+					</name>
+      <price>2 436 грн.</price>
+      <image>http://i5.sokol.org.ua/goods/12907/12907648.jpg</image>
+    </product>
+    <product id="17">
+      <name>
+						Смартфон Xiaomi Redmi 3s 3/32 Silver
+					</name>
+      <price>3 599 грн.</price>
+      <image>http://i7.sokol.org.ua/goods/12846/12846304.jpg</image>
+    </product>
+    <product id="18">
+      <name>
+						Смартфон Samsung Galaxy J3 2016 Black (SM-J320HZKDSEK)
+					</name>
+      <price>3 399 грн.</price>
+      <image>http://i7.sokol.org.ua/goods/12476/12476715.jpg</image>
+    </product>
+    <product id="19">
+      <name>
+						Смартфон Samsung Galaxy J5 (2016) Black (SM-J510HZKDSEK)
+					</name>
+      <price>4 599 грн.</price>
+      <image>http://i2.sokol.org.ua/goods/12589/12589711.jpg</image>
+    </product>
+    <product id="20">
+      <name>
+						Смартфон Xiaomi Redmi 3s 3/32 Gold
+					</name>
+      <price>4 299 грн.</price>
+      <image>http://i3.sokol.org.ua/goods/12787/12787561.jpg</image>
+    </product>
+  </data>
+</root>

@@ -1,0 +1,8 @@
+from django.shortcuts import render
+from django.http import HttpResponseRedirect
+from .Database import *
+
+
+def rents(request):
+    rents = getRents()
+    return render(request, 'rent/home.html', {})
